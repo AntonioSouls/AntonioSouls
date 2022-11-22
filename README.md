@@ -1,3 +1,5 @@
+# A LITTLE PRESENTATION ABOUT ME
+
 - 👋 Hi, I’m @AntonioSouls. I'm 22 years old and I'm born in Venosa (PZ) and moved to Rome (RM) to study computer engineering at Roma Tre University 
 - 🌱 I’m currently graduating at bachelor degree in computer engineering and, after that, i want to continue the master in Data Science
 - 👀 I’m currently working with a Data Science team that it's teaching me many things.
