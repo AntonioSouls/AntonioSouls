@@ -31,3 +31,30 @@ In my free time I like to train in the gym and cultivate my artistic interest, e
 ---
 ### 🔥My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=AntonioSouls&theme=dark&locale=it)](https://git.io/streak-stats)
+
+
+<p align="center"> 
+
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?title_color=3ed784&icon_color=9153DB&text_color=fff&custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=transparent&username=AntonioSouls"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?title_color=3ed784&icon_color=9153DB&text_color=1F2328&custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=transparent&username=AntonioSouls"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?title_color=3ed784&icon_color=9153DB&custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&username=AntonioSouls" width="400" height="250"/>
+</picture>
+
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?title_color=3ed784&icon_color=9153DB&text_color=fff&custom_title=🔥%20Most%20used%20languages&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=transparent&username=AntonioSouls"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?title_color=3ed784&icon_color=9153DB&text_color=1F2328&custom_title=🔥%20Most%20used%20languages&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=transparent&username=AntonioSouls"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?title_color=3ed784&icon_color=9153DB&custom_title=🔥%20Most%20used%20languages&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&username=AntonioSouls" alt="lang" width="400" height="250"/> 
+</picture>
