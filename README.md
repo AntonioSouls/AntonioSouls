@@ -30,31 +30,31 @@ In my free time I like to train in the gym and cultivate my artistic interest, e
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,spring,git,github,postgres,docker,gradle,eclipse,idea,vscode,mysql,wordpress)](https://skillicons.dev)
 ---
 ### 🔥My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=AntonioSouls&theme=dark&locale=it)](https://git.io/streak-stats)
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=AntonioSouls&theme=radical&hide_border=true&locale=it&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+    </a>
+</p>
 
-
-<p align="center"> 
-
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?title_color=3ed784&icon_color=9153DB&text_color=fff&custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=transparent&username=AntonioSouls"
+<p align="center">
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?title_color=eb349b&icon_color=d49137&text_color=43a5be&custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=transparent&username=AntonioSouls"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?title_color=3ed784&icon_color=9153DB&text_color=1F2328&custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=transparent&username=AntonioSouls"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+<source srcset="https://github-readme-stats.vercel.app/api?title_color=eb349b&icon_color=d49137&text_color=43a5be&custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=transparent&username=AntonioSouls"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?title_color=3ed784&icon_color=9153DB&custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&username=AntonioSouls" width="400" height="250"/>
-</picture>
+  <img src="https://github-readme-stats.vercel.app/api?title_color=eb349b&icon_color=d49137&custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&username=AntonioSouls" width="400" height="250"/>
+ </picture>
 
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?title_color=3ed784&icon_color=9153DB&text_color=fff&custom_title=🔥%20Most%20used%20languages&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=transparent&username=AntonioSouls"
+  <picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?title_color=eb349b&icon_color=d49137&text_color=43a5be&custom_title=🔥%20Most%20used%20languages&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=transparent&username=AntonioSouls"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?title_color=3ed784&icon_color=9153DB&text_color=1F2328&custom_title=🔥%20Most%20used%20languages&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=transparent&username=AntonioSouls"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?title_color=eb349b&icon_color=d49137&text_color=43a5be&custom_title=🔥%20Most%20used%20languages&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=transparent&username=AntonioSouls"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?title_color=3ed784&icon_color=9153DB&custom_title=🔥%20Most%20used%20languages&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&username=AntonioSouls" alt="lang" width="400" height="250"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?title_color=eb349b&icon_color=d49137&custom_title=🔥%20Most%20used%20languages&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&username=AntonioSouls" alt="lang" width="400" height="250"/> 
 </picture>
+
+</p>
