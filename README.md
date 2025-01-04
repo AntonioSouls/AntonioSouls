@@ -15,7 +15,7 @@
 </h2>
 
 ### 🤵🏻 About Me :
-<h3 align="center"> I am a 22 year old student who moved to Rome to study Computer Engineering 💻 at <ins>Università degli Studi di Roma Tre</ins>. During the three-year experience I had the opportunity to carry out a six-month internship at <ins>Translated</ins> where we created a project relating to Data Collectioning for an artificial intelligence dedicated to translations 🤖.
+<h3 align="center"> I am a 24 year old student who moved to Rome in 2019 to study Computer Engineering 💻 at <ins>Università degli Studi di Roma Tre</ins>. During the three-year experience I had the opportunity to carry out a six-month internship at <ins>Translated</ins> where we created a project relating to Data Collectioning for an artificial intelligence dedicated to translations 🤖.
 </h3>
 
 <h3 align="center">I am currently continuing my master's studies in Data Engineering, with the aim of being able to work in the Data and Machine Learning sector 📚.
