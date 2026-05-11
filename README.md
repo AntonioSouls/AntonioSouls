@@ -43,6 +43,6 @@ IIn my spare time, I like to do breakdancing and cultivate my artistic interest,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSouls&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonioSouls&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-two-delta-87.vercel.app/api?username=AntonioSouls&show_icons=true&hide_border=true&theme=radical" />
+  <img src="https://github-readme-stats-two-delta-87.vercel.app/api/top-langs?username=AntonioSouls&layout=compact&langs_count=8&hide_border=true&theme=radical" />
 </p>
