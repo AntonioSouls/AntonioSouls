@@ -41,4 +41,5 @@ IIn my spare time, I like to do breakdancing and cultivate my artistic interest,
 
 <p align="center">
     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSouls&layout=compact&theme=tokyonight)
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonioSouls&show_icons=true&theme=tokyonight)
 </p>
