@@ -26,11 +26,14 @@ IIn my spare time, I like to do breakdancing and cultivate my artistic interest,
 </h3>
 
 ---
-### 🧑🏻‍💻 Programming Languages :
-[![My Skills](https://skillicons.dev/icons?i=c,cs,java,py,html,css,git,dart,bash,powershell,cassandra,dynamodb,md,mongodb,mysql,sqlite)](https://skillicons.dev)
+### 👨🏻‍💻 Programming Languages:
+[![My Skills](https://skillicons.dev/icons?i=c,cs,java,py,html,css,dart,bash,powershell,md)](https://skillicons.dev)
+---
+### 💽 Databases:
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,cassandra,dynamodb)](https://skillicons.dev)
 ---
 ### 🛠️ Programming Tools:
-[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,bootstrap,discord,docker,eclipse,figma,firebase,flutter,github,gradle,idea,kafka,kubernetes,latex,linux,maven,notion,postgres,pytorch,spring,sublime,tensorflow,ubuntu,unity,vscode,windows,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,bootstrap,discord,docker,eclipse,figma,firebase,flutter,git,github,gradle,idea,kafka,kubernetes,latex,linux,maven,notion,postgres,pytorch,spring,sublime,tensorflow,ubuntu,unity,vscode,windows,wordpress)](https://skillicons.dev)
 ---
 ### 🔥My Stats :
 <p align="center">
@@ -40,6 +43,6 @@ IIn my spare time, I like to do breakdancing and cultivate my artistic interest,
 </p>
 
 <p align="center">
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSouls&layout=compact&theme=tokyonight)
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonioSouls&show_icons=true&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSouls&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonioSouls&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
