@@ -27,7 +27,7 @@ In my free time I like to train in the gym and cultivate my artistic interest, e
 
 ---
 ### 🧑🏻‍💻 Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=c,cs,java,py,html,css,spring,git,github,postgres,docker,eclipse,idea,vscode,mysql,wordpress,unity,ubuntu,latex,anaconda,bash,dynamodb,mongodb,figma,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,java,py,html,css,spring,git,github,postgres,docker,eclipse,idea,vscode,mysql,wordpress,unity,ubuntu,latex,anaconda,bash,dynamodb,mongodb,figma,powershell,dart)](https://skillicons.dev)
 ---
 ### 🔥My Stats :
 <p align="center">
