@@ -38,11 +38,11 @@ IIn my spare time, I like to do breakdancing and cultivate my artistic interest,
 ### 🔥My Stats :
 <p align="center">
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=AntonioSouls&theme=radical&hide_border=true&locale=it&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=AntonioSouls&theme=algolia&hide_border=true&locale=it&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
     </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-two-delta-87.vercel.app/api?username=AntonioSouls&show_icons=true&hide_border=true&theme=radical" />
-  <img src="https://github-readme-stats-two-delta-87.vercel.app/api/top-langs?username=AntonioSouls&layout=compact&langs_count=8&hide_border=true&theme=radical" />
+  <img src="https://github-readme-stats-two-delta-87.vercel.app/api?username=AntonioSouls&show_icons=true&hide_border=true&theme=algolia" />
+  <img src="https://github-readme-stats-two-delta-87.vercel.app/api/top-langs?username=AntonioSouls&layout=compact&langs_count=8&hide_border=true&theme=algolia" />
 </p>
