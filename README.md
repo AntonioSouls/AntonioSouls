@@ -40,24 +40,5 @@ IIn my spare time, I like to do breakdancing and cultivate my artistic interest,
 </p>
 
 <p align="center">
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?title_color=eb349b&icon_color=d49137&text_color=43a5be&custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=transparent&username=AntonioSouls"
-    media="(prefers-color-scheme: dark)"
-  />
-<source srcset="https://github-readme-stats.vercel.app/api?title_color=eb349b&icon_color=d49137&text_color=43a5be&custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&theme=transparent&username=AntonioSouls"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?title_color=eb349b&icon_color=d49137&custom_title=📈%20GitHub%20Stats&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&username=AntonioSouls" width="400" height="250"/>
- </picture>
-
-  <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?title_color=eb349b&icon_color=d49137&text_color=43a5be&custom_title=🔥%20Most%20used%20languages&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=transparent&username=AntonioSouls"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?title_color=eb349b&icon_color=d49137&text_color=43a5be&custom_title=🔥%20Most%20used%20languages&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&theme=transparent&username=AntonioSouls"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?title_color=eb349b&icon_color=d49137&custom_title=🔥%20Most%20used%20languages&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&username=AntonioSouls" alt="lang" width="400" height="250"/> 
-</picture>
-
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSouls&layout=compact&theme=tokyonight)
 </p>
