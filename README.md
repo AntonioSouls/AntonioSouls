@@ -15,19 +15,22 @@
 </h2>
 
 ### 🤵🏻 About Me :
-<h3 align="center"> I am a 24 year old student who moved to Rome in 2019 to study Computer Engineering 💻 at <ins>Università degli Studi di Roma Tre</ins>. During the three-year experience I had the opportunity to carry out a six-month internship at <ins>Translated</ins> where we created a project relating to Data Collectioning for an artificial intelligence dedicated to translations 🤖.
+<h3 align="center"> I am a 25 year old student who moved to Rome in 2019 to study Computer Engineering 💻 at <ins>Università degli Studi di Roma Tre</ins>. During the three-year experience I had the opportunity to carry out a six-month internship at <ins>Translated</ins> where we created a project relating to Data Collectioning for an artificial intelligence dedicated to translations 🤖. During this master’s journey, however, I had the opportunity to work at <ins>Info&Tel</ins>, which gave me the chance to put myself to the test in software development within the retail sector. Thanks to this experience, I was able to learn new technologies and programming languages, whilst also gaining an understanding of how the development and release of real-world applications works, and how best to meet clients’ needs.
 </h3>
 
 <h3 align="center">I am currently continuing my master's studies in Data Engineering, with the aim of being able to work in the Data and Machine Learning sector 📚.
 </h3>
 
 <h3 align="center">I am a person who loves being in a group and cooperating in the realization of projects.
-In my free time I like to train in the gym and cultivate my artistic interest, especially my interest in music🎵. I also love going out with my friends and sharing ideas, dreams and projects with them 🍻
+IIn my spare time, I like to do breakdancing and cultivate my artistic interest, especially my interest in music🎵. I also love going out with my friends and sharing ideas, dreams and projects with them 🍻
 </h3>
 
 ---
-### 🧑🏻‍💻 Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=c,cs,java,py,html,css,spring,git,github,postgres,docker,eclipse,idea,vscode,mysql,wordpress,unity,ubuntu,windows,latex,anaconda,bash,dynamodb,mongodb,figma,powershell,dart,flutter)](https://skillicons.dev)
+### 🧑🏻‍💻 Programming Languages :
+[![My Skills](https://skillicons.dev/icons?i=c,cs,java,py,html,css,git,dart,bash,powershell,cassandra,dynamodb,md,mongodb,mysql,sqlite)](https://skillicons.dev)
+---
+### 🛠️ Programming Tools:
+[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,bootstrap,discord,docker,eclipse,figma,firebase,flutter,github,gradle,idea,kafka,kubernetes,latex,linux,maven,notion,postgres,pytorch,spring,sublime,tensorflow,ubuntu,unity,vscode,windows,wordpress)](https://skillicons.dev)
 ---
 ### 🔥My Stats :
 <p align="center">
